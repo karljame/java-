@@ -1,0 +1,15 @@
+.title{
+   color: hotpink;
+   font-style: oblique;
+}
+
+.description{
+    color: lime;
+    font-style: italic;
+}
+.movie{
+    margin: 24px
+    display: grid;
+    grid-template-columns: auto auto auto; 
+}
+    
